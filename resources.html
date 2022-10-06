@@ -7,7 +7,7 @@ description: >-
 <ul class="staff">
 	{% for book in site.books %}
 		<li>
-			<div class=""><img src="{{ book.image_path}}" alt="{{ book.name }}"/></div>
+			<div class=""><img src="{{ book.image_path}}" width="200" height="200" alt="{{ book.name }}"/></div>
 			<div class="name"><a target="_blank" href="{{ book.link }}">{{ book.name }}</a></div>
 		</li>
 	{% endfor %}
