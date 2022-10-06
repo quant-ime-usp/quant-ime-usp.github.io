@@ -22,3 +22,7 @@
   link: /
   new_window: true
   highlight: true
+- name: Resources
+  link: /resources
+  new_window: false
+  highlight: false
