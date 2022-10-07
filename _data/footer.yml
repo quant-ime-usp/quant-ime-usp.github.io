@@ -3,8 +3,8 @@
   #  link: /pricing/
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
+  - name: Members
+    link: /members/
   - name: Contact
     link: /contact/
 #- links:
