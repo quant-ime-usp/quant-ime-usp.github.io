@@ -1,12 +1,14 @@
 - links:
   #- name: Pricing
   #  link: /pricing/
-  - name: Blog
-    link: /blog/
+  #- name: Blog
+  #  link: /blog/
   - name: Members
     link: /members/
   - name: Contact
     link: /contact/
+  - name: Resources
+    link: /resources/
 #- links:
 #  - name: Login
 #    link: /
